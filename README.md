@@ -4,12 +4,13 @@ This is a simple personal webpage created using HTML.
 
 ## Features
 - About Me section
-- Contact details
-- Basic HTML structure
-- Simple webpage layout
+- Contact section
+- Simple navigation
+- Personal information display
 
 ## Technologies Used
 - HTML
+- CSS
 
 ## How to Run
 1. Download the repository
